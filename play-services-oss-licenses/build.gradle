@@ -31,7 +31,7 @@ dependencies {
     api project(':play-services-oss-licenses-api')
 
     // Dependencies from play-services-oss-licenses:17.0.0
-    api "androidx.loader:loader:1.0.0"
+    api "androidx.loader:loader:1.1.0"
     api project(':play-services-base')
     api project(':play-services-basement')
     api project(':play-services-tasks')
