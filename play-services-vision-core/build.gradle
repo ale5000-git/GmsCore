@@ -13,7 +13,7 @@ dependencies {
 
     implementation project(':play-services-base-core')
     implementation "androidx.annotation:annotation:$annotationVersion"
-    implementation 'com.google.zxing:core:3.4.1'
+    implementation 'com.google.zxing:core:3.5.1'
 }
 
 android {
