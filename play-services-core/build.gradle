@@ -24,7 +24,7 @@ dependencies {
 
     // Specified manually due to
     // https://github.com/vitalidze/chromecast-java-api-v2/issues/91
-    api "org.slf4j:slf4j-api:1.7.25"
+    api "org.slf4j:slf4j-api:2.0.5"
     api "uk.uuid.slf4j:slf4j-android:1.7.25-1"
 
     implementation project(':firebase-dynamic-links-api')
